@@ -47,6 +47,7 @@
 - Figma lõpetamine
 - Speedtesti test
 - Zone'i üleslaadimine
+- Esitlus
 # Pildid
 
 
