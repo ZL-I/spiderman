@@ -30,6 +30,6 @@
 
 # Pildid
 
-![image](https://github.com/ZL-I/spiderman/assets/144334389/8bf2a3fc-bd3e-4c36-99e9-adeab06a212d)
-![image](https://github.com/ZL-I/spiderman/assets/144334389/90a8989a-3cee-4f3b-98dd-4c3cd24d21e3)
 
+![image](https://github.com/ZL-I/spiderman/assets/144334389/963d043b-65de-4d3b-adce-c5c0c7f490be)
+https://files.slack.com/files-pri/TUUFNUCSW-F063JPYQWQY/img_20231026_085455.jpg
