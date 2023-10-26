@@ -25,5 +25,5 @@
 - Valisime välja filmi (Spider-Man).
 - Valisime välja lehed. Pealeht, pildi galerii, info.
 - Tegime Figmas disaini.
-- Figmas sai sai peaaegu valimis desktopi vaate esmine, teine ja kolmas leht.
+- Figmas sai peaaegu valmis desktopi vaate esimine, teine ja kolmas leht.
 - TAK-23 said tehtud zone kasutajad.
