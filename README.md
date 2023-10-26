@@ -27,3 +27,9 @@
 - Tegime Figmas disaini.
 - Figmas sai peaaegu valmis desktopi vaate esimene, teine ja kolmas leht.
 - TAK-23 said tehtud zone kasutajad.
+
+# Pildid
+
+![image](https://github.com/ZL-I/spiderman/assets/144334389/8bf2a3fc-bd3e-4c36-99e9-adeab06a212d)
+![image](https://github.com/ZL-I/spiderman/assets/144334389/90a8989a-3cee-4f3b-98dd-4c3cd24d21e3)
+
