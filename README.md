@@ -1,13 +1,13 @@
-# spiderman
+# Filmiprojekt - Spider-Man
 
 ## Tiimiliikmed
 
-- Märt Pors
-- Oliver Põder
-- Remo Tammela
-- Nathan Raielo
-- Mariliis Toon
-- Kallas
+- Märt Pors TA-23
+- Mariliis Toon TA-23
+- Oliver Põder TAK-23
+- Remo Tammela TAK-23
+- Nathan Raielo TAK-21
+- Kallas TAK-21
 
 ## Valitud suhtluskanal
 - [Slack](https://slack.com/)
@@ -19,3 +19,11 @@
 ## Live Site 
 
 [Spider-Man] 
+
+# PÄEV 1
+
+- Valisime välja filmi (Spider-Man).
+- Valisime välja lehed. Pealeht, pildi galerii, info.
+- Tegime Figmas disaini.
+- Figmas sai sai peaaegu valimis desktopi vaate esmine, teine ja kolmas leht.
+- TAK-23 said tehtud zone kasutajad.
