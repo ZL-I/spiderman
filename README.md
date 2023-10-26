@@ -28,9 +28,16 @@
 - Figmas sai peaaegu valmis desktopi vaate esimene, teine ja kolmas leht.
 - TAK-23 said tehtud zone kasutajad.
 
+# PÄEV 2
+
+- Tegime sketchi tahvlile.
+- Alustasime uuesti Figmas uue pealehega.
+- Kohandamine mobiilivaates
+
 # Pildid
 
 
 ![image](https://github.com/ZL-I/spiderman/assets/144334389/963d043b-65de-4d3b-adce-c5c0c7f490be)
 ![image](https://github.com/ZL-I/spiderman/assets/144334389/ea7c185f-07e8-4f58-8664-4df547a708a8)
 ![image](https://github.com/ZL-I/spiderman/assets/144334389/c428b9e4-0970-4042-8ed2-5baa89540317)
+![image](https://github.com/ZL-I/spiderman/assets/104862738/b54d7105-6e54-4538-ab06-ed1a0e93f46d)
