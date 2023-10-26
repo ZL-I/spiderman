@@ -40,6 +40,13 @@
 - Alustasime uuesti Figmas uue pealehega.
 - Kohandamine mobiilivaates
 - Koodi kirjutamine HTML, CSS
+
+- # PÄEV 3
+
+- Koodi lõpetamine
+- Figma lõpetamine
+- Speedtesti test
+- Zone'i üleslaadimine
 # Pildid
 
 
