@@ -32,4 +32,4 @@
 
 
 ![image](https://github.com/ZL-I/spiderman/assets/144334389/963d043b-65de-4d3b-adce-c5c0c7f490be)
-https://files.slack.com/files-pri/TUUFNUCSW-F063JPYQWQY/img_20231026_085455.jpg
+![image](https://github.com/ZL-I/spiderman/assets/144334389/eb4550d5-c8b9-4322-97fe-a206ff82da2c)
