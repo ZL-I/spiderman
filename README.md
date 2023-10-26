@@ -39,6 +39,7 @@
 - Tegime sketchi tahvlile.
 - Alustasime uuesti Figmas uue pealehega.
 - Kohandamine mobiilivaates
+- Koodi kirjutamine HTML, CSS
 # Pildid
 
 
