@@ -9,11 +9,16 @@
 - Nathan Raielo TAK-21
 - Kallas TAK-21
 
-## Valitud suhtluskanal
-[Slack](https://slack.com/)
+## Kasutatud tarkvara
+- [Slack](https://slack.com/) (Suhtluskanal)
+- Visual Studio Code (Programmeerimiseks)
+- Kasutatud keeled on meil HTML ja CSS
+- Figma (Disaini jaoks)
+- GitHub (Projekti haldamiseks)
+- Zone (Lehekülje käivatmise jaoks)
 
-## Figma link
-[Figma](https://www.figma.com/file/7z7EWpWVouyBCowTNOfUCe/Spiderman?type=design&node-id=0%3A1&mode=design&t=JNK6ip5d5KxB3djy-1)
+## Figma
+[Figma link](https://www.figma.com/file/7z7EWpWVouyBCowTNOfUCe/Spiderman?type=design&node-id=0%3A1&mode=design&t=JNK6ip5d5KxB3djy-1)
 
 ## Live Site 
 
@@ -21,6 +26,8 @@
 
 # PÄEV 1
 
+- Meeskonnaga tutvumine
+- Suhtluskanali loomine
 - Valisime välja filmi (Spider-Man).
 - Valisime välja lehed. Pealeht, pildi galerii, info.
 - Tegime Figmas disaini.
@@ -32,7 +39,6 @@
 - Tegime sketchi tahvlile.
 - Alustasime uuesti Figmas uue pealehega.
 - Kohandamine mobiilivaates
-
 # Pildid
 
 
