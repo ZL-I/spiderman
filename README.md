@@ -10,6 +10,14 @@
 - Nathan Raielo TAK-21
 - Kallas TAK-21
 
+## Tegevuste jaotus 
+- Peale meeskonnaga tutvumist panime töösse suhtluskanali - Kõik koos
+- Töökorralduse planeerimine - Kõik koos
+- Figma disain ja prototüüp - Remo, Märt, Oliver
+- Tööde juhendamine - Kallas, Nathan
+- Kodeerija - Mariliis
+- README.md - Remo
+
 ## Kasutatud tarkvara
 - [Slack](https://slack.com/) (Suhtluskanal)
 - Visual Studio Code (Programmeerimiseks)
