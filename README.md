@@ -74,8 +74,6 @@
 ![image](https://github.com/ZL-I/spiderman/assets/104862738/b54d7105-6e54-4538-ab06-ed1a0e93f46d)
 
 ## Speedtesti tulemused
-- Kaks esimest eilsed
-- Kaks viimast tänase omad
 ![image](https://github.com/ZL-I/spiderman/assets/104862738/0938df9a-2694-43cd-a64e-0af054eb40a1)
 ![image](https://github.com/ZL-I/spiderman/assets/104862738/747965c9-91e9-4e7b-bc33-f30d37a83cda)
 ![image](https://github.com/ZL-I/spiderman/assets/104862738/70417dbd-13e7-427c-a5fc-56feabb57ad7) 
