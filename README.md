@@ -57,6 +57,7 @@
 
 - # PÄEV 3
 
+- GitHubi repo uuendamine
 - Koodi lõpetamine
 - Figma lõpetamine
 - Speedtesti test
