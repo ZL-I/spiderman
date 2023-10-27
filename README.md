@@ -47,6 +47,7 @@
 - Koodi lõpetamine
 - Figma lõpetamine
 - Speedtesti test
+- Speedtesti tulemuste parandamine
 - Zone'i üleslaadimine
 - Esitlus
 
