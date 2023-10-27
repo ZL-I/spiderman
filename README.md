@@ -1,4 +1,5 @@
 # Filmiprojekt - Spider-Man
+25 - 27 oktoober 2023
 
 ## Tiimiliikmed
 
@@ -61,4 +62,25 @@
 ![image](https://github.com/ZL-I/spiderman/assets/104862738/0938df9a-2694-43cd-a64e-0af054eb40a1)
 ![image](https://github.com/ZL-I/spiderman/assets/104862738/747965c9-91e9-4e7b-bc33-f30d37a83cda)
 
-
+## Küsimused tiimiliikmetele:
+1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
+   * Remo - Ei, kuna kõik ülesannded on hästi jaotatud
+   * Märt - Olen ülesannete jaotamisega rahul, kui siis vaid tahtnud rohkem html ja css koodi õppida ja praktiseerida
+   * Mariliis - Ei, tahtsingi algusest peale koodida.
+   * Oliver -
+   * Nathan -
+   * Kallas -
+2. Üks pehme oskus, mida õppisin/endas arendasin.
+   * Remo - Suhtlemine ja meeskonnatöö
+   * Märt - Suhtlemine ja meeskonnatöö
+   * Mariliis - Inimesed on erinevad ja that's OK.
+   * Oliver -
+   * Nathan -
+   * Kallas -
+3. Üks tehniline oskus, mida õppisin/endas arendasin.
+   * Remo - Õppisin kasutama Figmat, speedtesti ja zone-i
+   * Märt - Avastasin figmas uusi funktsioone ja katsetasin ka speedtesti
+   * Mariliis - HTML ja CSS - linkimine, gridi ja flexi kasutamine
+   * Oliver -
+   * Nathan -
+   * Kallas -
