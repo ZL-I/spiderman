@@ -84,20 +84,20 @@
    * Remo - Ei, kuna kõik ülesannded on hästi jaotatud
    * Märt - Olen ülesannete jaotamisega rahul, kui siis vaid tahtnud rohkem html ja css koodi õppida ja praktiseerida
    * Mariliis - Ei, tahtsingi algusest peale koodida.
-   * Oliver - 
+   * Oliver - Ei, sest see on lihtsalt huvitav ja mulle meeldib olla mingis gruppis
    * Nathan - Kästi juhendada, olin rahul sellega.
    * Kallas - Mul ei olnud valikut, kuna pidin teisi juhendama.
 2. Üks pehme oskus, mida õppisin/endas arendasin.
    * Remo - Suhtlemine ja meeskonnatöö
    * Märt - Suhtlemine ja meeskonnatöö
    * Mariliis - Inimesed on erinevad ja that's OK.
-   * Oliver -
+   * Oliver - Suhtlemine ja meeskonnatöö
    * Nathan - Juhendamis oskust.
    * Kallas - Oskan paremini juhendada ja selgitada lahendusi.
 3. Üks tehniline oskus, mida õppisin/endas arendasin.
    * Remo - Õppisin kasutama Figmat, speedtesti ja zone-i
    * Märt - Avastasin figmas uusi funktsioone ja katsetasin ka speedtesti, täiendasin teadmisi Ubuntus
    * Mariliis - HTML ja CSS - linkimine, gridi ja flexi kasutamine
-   * Oliver -
-   * Nathan - figma box shaping
+   * Oliver - Figma box kasutamine, disainimine ja plugins
+   * Nathan - Figma box shaping
    * Kallas - speedtest, zone
