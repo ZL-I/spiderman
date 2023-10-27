@@ -1,5 +1,8 @@
 # Filmiprojekt - Spider-Man
-25 - 27 oktoober 2023
+- 25 - 27 oktoober 2023
+
+# Projekti eesmärk
+- Teha lehekülg filmi Spider-Man huvilistele
 
 ## Tiimiliikmed
 
@@ -42,6 +45,7 @@
 - Tegime Figmas disaini.
 - Figmas sai peaaegu valmis desktopi vaate esimene, teine ja kolmas leht.
 - TAK-23 said tehtud zone kasutajad.
+- Readme.md faili koostamine
 
 # PÄEV 2
 
@@ -69,6 +73,8 @@
 ![image](https://github.com/ZL-I/spiderman/assets/104862738/b54d7105-6e54-4538-ab06-ed1a0e93f46d)
 ![image](https://github.com/ZL-I/spiderman/assets/104862738/0938df9a-2694-43cd-a64e-0af054eb40a1)
 ![image](https://github.com/ZL-I/spiderman/assets/104862738/747965c9-91e9-4e7b-bc33-f30d37a83cda)
+![image](https://github.com/ZL-I/spiderman/assets/104862738/70417dbd-13e7-427c-a5fc-56feabb57ad7) 
+![image](https://github.com/ZL-I/spiderman/assets/104862738/46bef8fa-cf7e-4950-ad80-30cdac3733e7)
 
 ## Küsimused tiimiliikmetele:
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
